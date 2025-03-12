@@ -1,6 +1,6 @@
 // her skal du skrive din anonyme funktion
 let myAnonFunc = function () {
-  return "Hello World";
+  return "Hellow World";
 };
 
 // her kaldes, eller invokes din anonyme funktion gennem en variabel
